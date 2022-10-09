@@ -13,6 +13,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋, Daniela Trinchera
+#### Web Development 
+![Web Development ](https://github.com/DaniCima/DaniCima/blob/main/Banner%20.md.png)
+
+I'm Dani from Argentina, I'm really enyoing larning lenguages and frameworks like React and hopefully soon will digg more in backend and Angular.
+I also enjoy helping people
+
+Skills: React JS / JS / HTML / MongoDB / Express / Node JS / Google Analytics
+
+- 🔭 I’m currently working on this page. 
+
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danicima)](https://github.com/danicima/github-readme-stats)
 
 ![Banner de Reddit Rojo Tipografía en Negrita (1)](https://user-images.githubusercontent.com/103966642/194775796-fe82c056-e0f3-41a4-8eee-e1a4e2f81966.png)
