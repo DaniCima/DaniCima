@@ -15,11 +15,14 @@ Here are some ideas to get you started:
 -->
 
 ![Web Development ](https://github.com/DaniCima/DaniCima/blob/main/Banner%20.md.png)
-### Hi there 👩‍💻, I'm Daniela Trinchera
+### Hi there! 👩‍💻 I'm Daniela Trinchera
 
 I'm from Argentina, prefer to be called Dani. I'm really enyoing larning lenguages and frameworks like React and hopefully soon I'll go deeper into backend.
 
-Skills: React Js | Bootstrap | CSS | HTML | MongoDB | Express | Node Js | Google Analytics
+## Skills & Experience
+:atom: React Js 
+🖌️ Bootstrap 📺 CSS & HTML 
+🍃 MongoDB 📝 Express :shield: Node Js 📈 Google Analytics
 
 - 🔭 I am currently working on debugging my projects.
 - 👯 I’m looking to collaborate with a company, to use my knowledge, grow and gain expertise.
@@ -30,10 +33,6 @@ Skills: React Js | Bootstrap | CSS | HTML | MongoDB | Express | Node Js | Google
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/DaniCima)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/danicima)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/danicima//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/danitrin)  
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danicima)](https://github.com/danicima/github-readme-stats)
-
-
-### Hi there! Thanks for visiting
 $\mathcal{\color{purple}{this \ is \ a \ paragraph} \ \color{cyan}{in \ another \ font}}$
 
 $\mathbb{\color{teal}{this \ is \ a } \ \color{magenta}{paragraph \ in \ another \ font}}$
