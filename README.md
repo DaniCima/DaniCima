@@ -13,22 +13,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋, Daniela Trinchera
-#### Web Development 
+
 ![Web Development ](https://github.com/DaniCima/DaniCima/blob/main/Banner%20.md.png)
+### Hi there 👩‍💻, I'm Daniela Trinchera
 
-I'm Dani from Argentina, I'm really enyoing larning lenguages and frameworks like React and hopefully soon will digg more in backend and Angular.
-I also enjoy helping people
+I'm from Argentina, prefer to be called Dani. I'm really enyoing larning lenguages and frameworks like React and hopefully soon I'll go deeper into backend.
 
-Skills: React JS / JS / HTML / MongoDB / Express / Node JS / Google Analytics
+Skills: React Js | Bootstrap | CSS | HTML | MongoDB | Express | Node Js | Google Analytics
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I am currently working on debugging my projects.
+- 👯 I’m looking to collaborate with a company, to use my knowledge, grow and gain expertise.
+- 🤔 I'm looking for help to learn more about backend.
+- 📫 Contact me: 📲 Slack: Daniela Trinchera
+- ⚡ Fun fact: killer whales are actually dolphins.
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/DaniCima)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/danicima)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/danicima//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/danitrin)  
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danicima)](https://github.com/danicima/github-readme-stats)
 
-![Banner de Reddit Rojo Tipografía en Negrita (1)](https://user-images.githubusercontent.com/103966642/194775796-fe82c056-e0f3-41a4-8eee-e1a4e2f81966.png)
 
 ### Hi there! Thanks for visiting
 $\mathcal{\color{purple}{this \ is \ a \ paragraph} \ \color{cyan}{in \ another \ font}}$
