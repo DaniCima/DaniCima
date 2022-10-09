@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-`#0d1117`
-![banner README](https://user-images.githubusercontent.com/103966642/194771778-4f87a2fd-e12c-4df7-8851-4da48280d714.png)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danicima)](https://github.com/danicima/github-readme-stats)
+
+![Banner de Reddit Rojo Tipografía en Negrita (1)](https://user-images.githubusercontent.com/103966642/194775796-fe82c056-e0f3-41a4-8eee-e1a4e2f81966.png)
+
 ### Hi there! Thanks for visiting
 $\mathcal{\color{purple}{this \ is \ a \ paragraph} \ \color{cyan}{in \ another \ font}}$
 
