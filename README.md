@@ -74,7 +74,7 @@ I'm from Argentina, prefer to be called Dani. I'm really enyoing larning lenguag
 React Js . Bootstrap . CSS HTML . MongoDB . Express . Node Js . Axios . Google Analytics
 
 ## Projects
-- [Circle Website](https://github.com/DaniCima/Project1-Circle](https://circle2.netlify.app/html/)
+- [Circle Website](https://circle2.netlify.app/html/)
 - Hungry Bat
 - Vegginers / colaboradores
 - Fourty Thieves
