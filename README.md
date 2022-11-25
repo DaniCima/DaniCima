@@ -81,7 +81,7 @@ React Js . Bootstrap . CSS HTML . MongoDB . Express . Node Js . Axios . Google A
 
 
 ##  📫 Reach me out!
-- [![Mail Badge](https://img.shields.io/badge/-tinchera.dm@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:trinchera.dm@gmail.com)
+- [Mail Badge](https://img.shields.io/badge/-tinchera.dm@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:trinchera.dm@gmail.com)
 - 📲 $\fbox{{ \color{cyan}{S}\color{teal}{la}\color{red}{c}\color{yellow}{k} }}$: Daniela Trinchera
 - or..
 
